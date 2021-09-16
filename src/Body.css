@@ -1,0 +1,36 @@
+.body {
+  display: flex;
+  background-color: #e2e2e2;
+  height: 100vh;
+}
+
+.body__main {
+  /* background-color: white; */
+  margin-left: 10%;
+  width: 50%;
+  padding-top: 50px;
+}
+
+.body__head {
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+
+.body__rowClass {
+  background-color: white;
+}
+
+.table {
+  background-color: white !important;
+  border-radius: 10px;
+}
+
+.body__right {
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 20px;
+  width: 30%;
+  height: 140px;
+}
