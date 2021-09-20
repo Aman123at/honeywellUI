@@ -42,7 +42,7 @@ function Body({ isSaveKey, setIsSaveKey, hide, setHide, handleHide }: any) {
 
   const handleEdit = (e: any, key: string, value: string, id: Number) => {
     e.preventDefault();
-    allData.map((item) => {
+    allData.forEach((item) => {
       if (item.id === id) {
         item.key = key;
         item.value = value;
