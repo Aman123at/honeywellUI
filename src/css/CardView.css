@@ -1,0 +1,24 @@
+.cardview {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cardview__editInput {
+  width: 130px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.cardview__editInput2 {
+  width: 130px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+.cardview__value {
+  padding-top: 20px;
+}
+.cardview__hr {
+  margin-top: 0px !important;
+}

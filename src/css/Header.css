@@ -28,4 +28,13 @@
   color: white;
   text-align: center;
   border-radius: 10px;
+  cursor: pointer !important;
+}
+
+.header__icons {
+  margin: 20px !important;
+}
+
+.header__saveKey {
+  margin-top: 10px;
 }

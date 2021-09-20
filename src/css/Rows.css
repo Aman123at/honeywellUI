@@ -1,0 +1,4 @@
+.rows__tableData {
+  display: flex;
+  align-items: center;
+}
